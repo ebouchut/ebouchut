@@ -8,7 +8,7 @@
 
 #### I'm a Back-End Developer 
 
-- ⚙️ I I use: `.sol`, `.rb`, `.js`, `.erb`, `.html`,  `.json`, `.sql`
+- ⚙️  I use: `.sol`, `.rb`, `.js`, `.erb`, `.html`,  `.json`, `.sql`
 - 🌱 Learning about: **React, Smart-Contracts on the Ethereum Blockchain, Solidity**
 - 📫 Reach me: [Twitter](https://twitter.com/ebouchut) or <EricBouchut@gmail.com>
 - 💙 Interests: dance, cryptocurrency enthusiast
