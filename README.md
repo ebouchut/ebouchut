@@ -1,5 +1,4 @@
 ## Hi, I'm Eric 👋
----
 
 <!-- 
     I'm Eric Bouchut, a software engineer with experience in Ruby, Rails, 
@@ -17,7 +16,7 @@
 
 #### Find me around the web 🌎:
 - 🌐 Updating my Blog  [EricBouchut.com](http://EricBouchutcom)
-- 🐦 Tweeting about *Blockchain*, *Git*, and sharing tech tips on [Twitter](https://twitter.com/ebouchut/)
+- 🐦 Tweeting about *Blockchain*, *Git* and sharing tech tips on [Twitter](https://twitter.com/ebouchut/)
 
 
 <!--
