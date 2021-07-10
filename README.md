@@ -15,7 +15,7 @@
 - 😄 Passionate about learning and sharing 
 
 #### Find me around the web 🌎:
-- 🌐 Updating my Blog  [EricBouchut.com](http://EricBouchutcom)
+- 🌐 Updating my Blog  [EricBouchut.com](http://EricBouchut.com)
 - 🐦 Tweeting about *Blockchain*, *Git* and sharing tech tips on [Twitter](https://twitter.com/ebouchut/)
 
 
