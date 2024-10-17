@@ -2,19 +2,19 @@
 
 <!-- 
     I'm Eric Bouchut, a software engineer with experience in Ruby, Rails, 
-    Blockchain, JavaScript and more. I am enthusiastic about solving problems and outside 
-    of work I like to dance (not often enough these times ;-) 
+    Blockchain, JavaScript and more. I am enthusiastic about solving problems. 
 -->
 
-#### I'm a Back-End Developer 
+#### I'm a Back-End Developer with a slant in Cybersecurity
 
-- ⚙️  I use: `.sol`, `.rb`, `.js`, `.erb`, `.html`,  `.json`, `.sql`
+- ⚙️  I use: `.py`, `.rb`, `.sh`, `.erb`, `.html`,  `.json`, `.sql`
 - 🌱 Learning about: **Smart-Contracts on the Ethereum Blockchain, Solidity**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ebouchut), [Twitter](https://twitter.com/ebouchut) or mail <EricBouchut@gmail.com>
 - 💙 Interests: dance, cryptocurrency enthusiast
 - 😄 Passionate about learning and sharing 
 
-#### Find me around the web 🌎:
+#### Find me around the web 🌎
+
 - 🌐 Updating my Blog  [EricBouchut.com](http://EricBouchut.com)
 - 🐦 Tweeting about *Git* and sharing tech tips on [Twitter](https://twitter.com/ebouchut/)
 
