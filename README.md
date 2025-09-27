@@ -8,7 +8,7 @@
 #### Back-End Developer with a slant in Cybersecurity
 
 - ⚙️  I use: `.java`, `.py`, `.rb`, `.sh`, `.erb`, `.html`, `.css`, `.json`, `.sql`
-- 🌱 Learning about: **Smart-Contracts on the Ethereum Blockchain, Solidity**
+- 🌱 Learning about: **Web Development**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ebouchut), [Twitter](https://twitter.com/ebouchut) or mail <EricBouchut@gmail.com>
 - 😄 Passionate about learning and sharing 
 
