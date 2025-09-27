@@ -10,7 +10,6 @@
 - ⚙️  I use: `.java`, `.py`, `.rb`, `.sh`, `.erb`, `.html`, `.css`, `.json`, `.sql`
 - 🌱 Learning about: **Smart-Contracts on the Ethereum Blockchain, Solidity**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ebouchut), [Twitter](https://twitter.com/ebouchut) or mail <EricBouchut@gmail.com>
-- 💙 Interests: dance, cryptocurrency enthusiast
 - 😄 Passionate about learning and sharing 
 
 #### Find me around the Web
