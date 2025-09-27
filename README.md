@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 !\[My github stats\](https://github-readme-stats.vercel.app/api?username=ebouchut&show\_icons=true)
 
 -->
+
+## Github Stats
+
+[![ebouchut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebouchut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
