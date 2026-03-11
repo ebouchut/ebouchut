@@ -10,12 +10,12 @@
 - ⚙️  I use: `.java`, `.py`, `.rb`, `.sh`, `.erb`, `.html`, `.css`, `.json`, `.sql`
 - 🌱 Learning about: **Web Development**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ebouchut), [Twitter](https://twitter.com/ebouchut) or mail <EricBouchut@gmail.com>
-- 😄 Passionate about learning and sharing 
+- 😄 Passionate about learning and [sharing](https://www.ericbouchut.com/blog/2021/07/22/git-stash-internals/)
 
 #### Find me around the Web
 
 - 🌐 Updating my Blog  [EricBouchut.com](http://EricBouchut.com)
-- 🐦 Tweeting about *Git* and [sharing]([url](https://www.ericbouchut.com/blog/2021/07/22/git-stash-internals/)) tech tips on [Twitter](https://twitter.com/ebouchut/)
+- 🐦 Tweeting about *Git* and sharing tech tips on [Twitter](https://twitter.com/ebouchut/)
 
 
 <!--
